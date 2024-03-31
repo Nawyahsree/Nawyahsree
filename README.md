@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Nawyahsree, currently pursing  in my second year of B.Tech at "Kakinada Institute of Engineering and Technology(KIET) College
-I'm currently pursuing my B.Tech in the AID branch
+I'm Nawyahsree, curently  i am studing  B.tech second year at "Kakinada Institute of Engineering and Technology(KIET) College
+I'm currently pursuing my B.tech in CSE Branch in AID group
 I'm always eager to expand my knowledge and explore new advancements in these fields
 User
 
